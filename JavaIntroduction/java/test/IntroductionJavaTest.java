@@ -46,7 +46,28 @@ public class IntroductionJavaTest {
         ByteArrayInputStream in = new ByteArrayInputStream("3".getBytes());
         System.setIn(in);
         InstructionJava t=new InstructionJava();
+        Assert.assertTrue(t.drawIsoscelesTriangle(in, new PrintStream(System.out)));
+    }
+    @Test
+    public void when_input_n_drive_diamond(){
+        ByteArrayInputStream in = new ByteArrayInputStream("3".getBytes());
+        System.setIn(in);
+        InstructionJava t=new InstructionJava();
         Assert.assertTrue(t.drawDiamond(in, new PrintStream(System.out)));
+    }
+    @Test
+    public void when_input_n_drive_diamondWithName(){
+        ByteArrayInputStream in = new ByteArrayInputStream("3".getBytes());
+        System.setIn(in);
+        InstructionJava t=new InstructionJava();
+        Assert.assertTrue(t.drawDiamondWithName(in, new PrintStream(System.out)));
+    }
+    @Test
+    public void test_for_fizzBuzz(){
+        ByteArrayInputStream in = new ByteArrayInputStream("3".getBytes());
+        System.setIn(in);
+        InstructionJava t=new InstructionJava();
+        Assert.assertTrue(t.fizzBuzz());
     }
 
 }

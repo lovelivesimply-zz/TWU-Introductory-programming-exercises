@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IntroductionJavaTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IntroductionJavaTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/test/IntroductionJavaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="44" column="15" lean-forward="false" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+            <state relative-caret-position="413">
+              <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InstructionJava.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="InstructionJava.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/main/InstructionJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="75" column="35" lean-forward="false" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
+            <state relative-caret-position="1649">
+              <caret line="128" column="13" lean-forward="false" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,7 +153,57 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IntroductionJavaTest.when_input_n_drive_isosceles_triangle">
+  <component name="RunManager" selected="JUnit.IntroductionJavaTest.test_for_fizzBuzz">
+    <configuration name="IntroductionJavaTest.test_for_fizzBuzz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="JavaIntroduction" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.IntroductionJavaTest" />
+      <option name="METHOD_NAME" value="test_for_fizzBuzz" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="IntroductionJavaTest.when_input_n_drive_diamondWithName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="JavaIntroduction" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.IntroductionJavaTest" />
+      <option name="METHOD_NAME" value="when_input_n_drive_diamondWithName" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="IntroductionJavaTest.when_input_n_drive_isosceles_triangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -221,51 +271,6 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="IntroductionJavaTest.when_intput_n_print_n_asterisks (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="JavaIntroduction" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.IntroductionJavaTest" />
-      <option name="METHOD_NAME" value="when_intput_n_print_n_asterisks" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="IntroductionJavaTest.when_intput_n_print_n_asterisks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="JavaIntroduction" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IntroductionJavaTest" />
-      <option name="METHOD_NAME" value="when_intput_n_print_n_asterisks" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/test" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -356,19 +361,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_intput_n_print_n_asterisks" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_intput_n_print_n_asterisks (1)" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_input_n_drive_vertical_line" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_input_n_drive_right_triangle" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_input_n_drive_isosceles_triangle" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_input_n_drive_vertical_line" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_input_n_drive_right_triangle" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_input_n_drive_isosceles_triangle" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_input_n_drive_diamondWithName" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.test_for_fizzBuzz" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_input_n_drive_isosceles_triangle" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_input_n_drive_right_triangle" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_input_n_drive_vertical_line" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_intput_n_print_n_asterisks (1)" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_intput_n_print_n_asterisks" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.test_for_fizzBuzz" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_input_n_drive_diamondWithName" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_input_n_drive_isosceles_triangle" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_input_n_drive_right_triangle" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.IntroductionJavaTest.when_input_n_drive_vertical_line" />
       </list>
     </recent_temporary>
   </component>
@@ -386,14 +391,14 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 20h 04m 52s.xml">
-      <configuration name="IntroductionJavaTest.when_input_n_drive_isosceles_triangle" configurationId="JUnit" />
+    <history-entry file="IntroductionJavaTest_test_for_fizzBuzz - 2017.09.07 at 20h 19m 21s.xml">
+      <configuration name="IntroductionJavaTest.test_for_fizzBuzz" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 20h 05m 06s.xml">
-      <configuration name="IntroductionJavaTest.when_input_n_drive_isosceles_triangle" configurationId="JUnit" />
+    <history-entry file="IntroductionJavaTest_test_for_fizzBuzz - 2017.09.07 at 20h 21m 26s.xml">
+      <configuration name="IntroductionJavaTest.test_for_fizzBuzz" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 20h 05m 31s.xml">
-      <configuration name="IntroductionJavaTest.when_input_n_drive_isosceles_triangle" configurationId="JUnit" />
+    <history-entry file="IntroductionJavaTest_when_input_n_drive_diamondWithName - 2017.09.07 at 20h 11m 36s.xml">
+      <configuration name="IntroductionJavaTest.when_input_n_drive_diamondWithName" configurationId="JUnit" />
     </history-entry>
     <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 20h 05m 52s.xml">
       <configuration name="IntroductionJavaTest.when_input_n_drive_isosceles_triangle" configurationId="JUnit" />
@@ -429,7 +434,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37529412" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27882352" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -522,20 +527,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/main/InstructionJava.java">
+    <entry file="file://$PROJECT_DIR$/java/test/IntroductionJavaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="75" column="35" lean-forward="false" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
+        <state relative-caret-position="413">
+          <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/test/IntroductionJavaTest.java">
+    <entry file="file://$PROJECT_DIR$/java/main/InstructionJava.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="44" column="15" lean-forward="false" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+        <state relative-caret-position="1649">
+          <caret line="128" column="13" lean-forward="false" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
