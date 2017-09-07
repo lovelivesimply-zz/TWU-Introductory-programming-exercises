@@ -2,6 +2,8 @@ package main;
 
 import java.io.InputStream;
 import java.io.PrintStream;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 public class InstructionJava {
 
@@ -129,6 +131,24 @@ public class InstructionJava {
             }
         }
         return true;
+    }
+
+    public List<Integer> primeFactorsExercise(int input){
+
+
+        List<Integer> list=new ArrayList<>();
+
+        for(int i=2;i<input/2+1;i++){
+            if(input%i==0){
+                int temp=input/i;
+                list.addAll(primeFactorsExercise(i));
+                list.addAll(primeFactorsExercise(temp));
+                break;
+            }
+        }
+        if(list.size()==0) list.add(input);
+        return list;
+
     }
 
 }

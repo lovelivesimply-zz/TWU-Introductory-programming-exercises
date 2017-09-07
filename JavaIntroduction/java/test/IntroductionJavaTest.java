@@ -6,6 +6,8 @@ import org.junit.Ignore;
 import org.junit.Test;
 
 import java.io.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class IntroductionJavaTest {
 
@@ -68,6 +70,18 @@ public class IntroductionJavaTest {
         System.setIn(in);
         InstructionJava t=new InstructionJava();
         Assert.assertTrue(t.fizzBuzz());
+    }
+
+    @Test
+    public void test_for_prime_factors(){
+
+        InstructionJava t=new InstructionJava();
+        List<Integer> result=t.primeFactorsExercise(30);
+
+        for(int i=0;i<result.size();i++){
+            System.out.println(result.get(i));
+        }
+
     }
 
 }
