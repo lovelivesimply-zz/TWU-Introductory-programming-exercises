@@ -72,6 +72,15 @@ public class InstructionJava {
             }
             out.println();
         }
+        for(int i=2*(input-1)-2;i>0;i--){
+            for(int j=i;j<2*input-3;j++){
+                out.print(" ");
+            }
+            for(int j=0;j<2*i-1;j++){
+                out.print("*");
+            }
+            out.println();
+        }
         return true;
     }
 }

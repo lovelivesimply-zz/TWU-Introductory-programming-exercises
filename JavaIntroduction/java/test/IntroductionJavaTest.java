@@ -43,10 +43,10 @@ public class IntroductionJavaTest {
     }
     @Test
     public void when_input_n_drive_isosceles_triangle(){
-        ByteArrayInputStream in = new ByteArrayInputStream("5".getBytes());
+        ByteArrayInputStream in = new ByteArrayInputStream("3".getBytes());
         System.setIn(in);
         InstructionJava t=new InstructionJava();
-        Assert.assertTrue(t.drawIsoscelesTriangle(in, new PrintStream(System.out)));
+        Assert.assertTrue(t.drawDiamond(in, new PrintStream(System.out)));
     }
 
 }

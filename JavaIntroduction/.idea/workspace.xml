@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IntroductionJavaTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="IntroductionJavaTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/test/IntroductionJavaTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="246">
-              <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+              <caret line="44" column="15" lean-forward="false" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InstructionJava.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InstructionJava.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/main/InstructionJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+            <state relative-caret-position="253">
+              <caret line="75" column="35" lean-forward="false" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -386,35 +386,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 19h 41m 13s.xml">
+    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 20h 04m 52s.xml">
       <configuration name="IntroductionJavaTest.when_input_n_drive_isosceles_triangle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 19h 41m 50s.xml">
+    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 20h 05m 06s.xml">
       <configuration name="IntroductionJavaTest.when_input_n_drive_isosceles_triangle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 19h 41m 59s.xml">
+    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 20h 05m 31s.xml">
       <configuration name="IntroductionJavaTest.when_input_n_drive_isosceles_triangle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 19h 42m 27s.xml">
+    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 20h 05m 52s.xml">
       <configuration name="IntroductionJavaTest.when_input_n_drive_isosceles_triangle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 19h 42m 36s.xml">
+    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 20h 06m 10s.xml">
       <configuration name="IntroductionJavaTest.when_input_n_drive_isosceles_triangle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntroductionJavaTest_when_input_n_drive_right_triangle - 2017.09.07 at 19h 35m 48s.xml">
-      <configuration name="IntroductionJavaTest.when_input_n_drive_right_triangle" configurationId="JUnit" />
+    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 20h 06m 21s.xml">
+      <configuration name="IntroductionJavaTest.when_input_n_drive_isosceles_triangle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntroductionJavaTest_when_input_n_drive_right_triangle - 2017.09.07 at 19h 38m 11s.xml">
-      <configuration name="IntroductionJavaTest.when_input_n_drive_right_triangle" configurationId="JUnit" />
+    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 20h 06m 48s.xml">
+      <configuration name="IntroductionJavaTest.when_input_n_drive_isosceles_triangle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntroductionJavaTest_when_input_n_drive_right_triangle - 2017.09.07 at 19h 38m 36s.xml">
-      <configuration name="IntroductionJavaTest.when_input_n_drive_right_triangle" configurationId="JUnit" />
+    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 20h 07m 31s.xml">
+      <configuration name="IntroductionJavaTest.when_input_n_drive_isosceles_triangle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntroductionJavaTest_when_input_n_drive_right_triangle - 2017.09.07 at 19h 39m 20s.xml">
-      <configuration name="IntroductionJavaTest.when_input_n_drive_right_triangle" configurationId="JUnit" />
+    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 20h 07m 47s.xml">
+      <configuration name="IntroductionJavaTest.when_input_n_drive_isosceles_triangle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntroductionJavaTest_when_input_n_drive_right_triangle - 2017.09.07 at 19h 41m 05s.xml">
-      <configuration name="IntroductionJavaTest.when_input_n_drive_right_triangle" configurationId="JUnit" />
+    <history-entry file="IntroductionJavaTest_when_input_n_drive_isosceles_triangle - 2017.09.07 at 20h 08m 05s.xml">
+      <configuration name="IntroductionJavaTest.when_input_n_drive_isosceles_triangle" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -429,7 +429,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37529412" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37529412" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -522,20 +522,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/test/IntroductionJavaTest.java">
+    <entry file="file://$PROJECT_DIR$/java/main/InstructionJava.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+        <state relative-caret-position="253">
+          <caret line="75" column="35" lean-forward="false" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/main/InstructionJava.java">
+    <entry file="file://$PROJECT_DIR$/java/test/IntroductionJavaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        <state relative-caret-position="246">
+          <caret line="44" column="15" lean-forward="false" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
